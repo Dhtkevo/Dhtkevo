@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kevin</h1>
 <h3 align="center">Passionate Software Engineer from Atlanta, Georgia</h3>
 
-- 🔭 I’m currently working on [Mock Shopping Cart](https://github.com/Dhtkevo/Shopping-Cart-V2)
+- 🔭 I’m currently working on [Blog-Api](https://github.com/Dhtkevo/Blog-Api)
 
 - 🌱 I’m currently learning **React, ExpressJS, C#, Unity, MongoDB, Data Analytics, TypeScript**
 

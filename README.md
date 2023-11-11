@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kevin Madu</h1>
-<h3 align="center">A passionate frontend developer from Fayetteville, Georgia</h3>
+<h3 align="center">A passionate Software Engineer from Fayetteville, Georgia</h3>
 
 - 🔭 I’m currently working on [Battleship](https://github.com/Dhtkevo/BattleShip)
 
@@ -11,7 +11,6 @@
 
 - ⚡ Fun fact **I am very tall. (6 Feet 7 Inches)**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 

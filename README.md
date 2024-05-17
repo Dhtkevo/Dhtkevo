@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kevin Madu</h1>
-<h3 align="center">A passionate Software Engineer from Fayetteville, Georgia</h3>
+<h3 align="center">A passionate Software Engineer from Atlanta, Georgia</h3>
 
-- 🔭 I’m currently working on earning my Bachelors of Science degree in Computing (Applied Computer Science)
+- 🔭 I’m currently working on earning my Bachelors of Science degree in Computer Science.
 
 - 🌱 I’m currently learning **C#, ASP.NET Core**
 

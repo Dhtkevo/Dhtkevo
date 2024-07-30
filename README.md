@@ -1,15 +1,16 @@
 <h1 align="center">Hi 👋, I'm Kevin Madu</h1>
-<h3 align="center">A passionate Software Engineer from Atlanta, Georgia</h3>
+<h3 align="center">I'm a passionate Software Engineer based in Atlanta, Georgia. 🌟
+</h3>
 
-- 🔭 I’m currently working on earning my Bachelors of Science degree in Computer Science.
+- 🔭 Currently, I'm working towards my Bachelor's of Science degree in Computer Science.
 
-- 🌱 I’m currently learning **C#, ASP.NET Core**
+- 🌱 I'm expanding my skills with PostgreSQL and ExpressJs.
 
-- 💬 Ask me about **React, Problem Solving, JavaScript**
+- 💬 Ask me about Databases and Full-Stack, Front-end, or Backend-development.
 
 - 📫 How to reach me **kevinmadudev@gmail.com**
 
-- ⚡ Fun fact **I am very tall. (6 Feet 7 Inches)**
+- ⚡ Fun fact: I'm 6 feet 7 inches tall!
 
 <p align="left">
 </p>

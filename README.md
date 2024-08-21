@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kevin Madu</h1>
-<h3 align="center">I'm a passionate Software Engineer based in Atlanta, Georgia. 🌟
+<h3 align="center">I'm a Software Developer based in Atlanta, Georgia. 🌟
 </h3>
 
 - 🔭 Currently, I'm working towards my Bachelor's of Science degree in Computer Science.

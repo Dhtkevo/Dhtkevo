@@ -9,5 +9,3 @@
 - 💬 Ask me about Databases and Full-Stack, Front-end, or Backend-development.
 
 - 📫 How to reach me **kevinmadudev@gmail.com**
-
-- ⚡ Fun fact: I'm 6 feet 7 inches tall!

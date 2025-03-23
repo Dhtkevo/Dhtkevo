@@ -4,7 +4,7 @@
 
 - 🔭 Currently, I'm working towards my Bachelor's of Science degree in Computer Science.
 
-- 🌱 I'm expanding my skills with PostgreSQL and ExpressJs.
+- 🌱 I'm expanding my skills with TypeScript and ExpressJs.
 
 - 💬 Ask me about Databases and Full-Stack, Front-end, or Backend-development.
 
